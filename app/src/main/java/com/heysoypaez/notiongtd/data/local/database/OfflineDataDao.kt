@@ -1,10 +1,10 @@
-package com.example.notiongtd.data.local.database
+package com.heysoypaez.notiongtd.data.local.database
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.Query
 import androidx.room.Delete
-import com.example.notiongtd.data.model.OfflineData
+import com.heysoypaez.notiongtd.data.model.OfflineData
 
 @Dao
 interface OfflineDataDao {

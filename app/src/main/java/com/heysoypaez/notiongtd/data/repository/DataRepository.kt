@@ -1,9 +1,9 @@
-package com.example.notiongtd.data.repository
+package com.heysoypaez.notiongtd.data.repository
 
 import android.content.Context
-import com.example.notiongtd.data.local.database.AppDatabase
-import com.example.notiongtd.data.model.OfflineData
-import com.example.notiongtd.utils.isInternetAvailable
+import com.heysoypaez.notiongtd.data.local.database.AppDatabase
+import com.heysoypaez.notiongtd.data.model.OfflineData
+import com.heysoypaez.notiongtd.utils.isInternetAvailable
 import kotlinx.coroutines.delay
 
 typealias Handler = () -> Unit

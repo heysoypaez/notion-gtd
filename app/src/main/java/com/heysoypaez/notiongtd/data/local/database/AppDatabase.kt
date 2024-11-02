@@ -1,10 +1,10 @@
-package com.example.notiongtd.data.local.database
+package com.heysoypaez.notiongtd.data.local.database
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.example.notiongtd.data.model.OfflineData
+import com.heysoypaez.notiongtd.data.model.OfflineData
 
 @Database(entities = [OfflineData::class], version = 1)
 abstract class AppDatabase : RoomDatabase() {

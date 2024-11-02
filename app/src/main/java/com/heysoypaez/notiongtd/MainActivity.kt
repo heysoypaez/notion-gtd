@@ -1,4 +1,4 @@
-package com.example.notiongtd
+package com.heysoypaez.notiongtd
 
 import android.os.Bundle
 import android.text.Editable
@@ -8,9 +8,9 @@ import android.widget.EditText
 import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.enableEdgeToEdge
-import com.example.notiongtd.data.local.database.AppDatabase
-import com.example.notiongtd.data.repository.DataRepository
-import com.example.notiongtd.services.NotionService
+import com.heysoypaez.notiongtd.data.local.database.AppDatabase
+import com.heysoypaez.notiongtd.data.repository.DataRepository
+import com.heysoypaez.notiongtd.services.NotionService
 
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers

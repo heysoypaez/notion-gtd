@@ -1,4 +1,4 @@
-package com.example.notiongtd.ui.theme
+package com.heysoypaez.notiongtd.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.example.notiongtd.utils
+package com.heysoypaez.notiongtd.utils
 
 import android.content.Context
 import android.net.ConnectivityManager

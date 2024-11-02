@@ -1,6 +1,6 @@
-package com.example.notiongtd.services
+package com.heysoypaez.notiongtd.services
 
-import com.example.notiongtd.BuildConfig
+import com.heysoypaez.notiongtd.BuildConfig
 import okhttp3.Headers
 import okhttp3.MediaType.Companion.toMediaTypeOrNull
 import okhttp3.Request

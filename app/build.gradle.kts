@@ -14,11 +14,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.notiongtd"
+    namespace = "com.heysoypaez.notiongtd"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.notiongtd"
+        applicationId = "com.heysoypaez.notiongtd"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

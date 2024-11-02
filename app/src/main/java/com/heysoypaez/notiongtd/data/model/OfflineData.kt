@@ -1,4 +1,4 @@
-package com.example.notiongtd.data.model
+package com.heysoypaez.notiongtd.data.model
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

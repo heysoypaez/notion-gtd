@@ -1,4 +1,4 @@
-package com.example.notiongtd
+package com.heysoypaez.notiongtd
 
 import org.junit.Test
 
